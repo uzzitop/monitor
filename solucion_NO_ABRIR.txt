@@ -1,0 +1,7 @@
+Las 6 fallas escondidas (no abrir hasta intentar encontrarlas):
+1. M02 sin lecturas el 2026-09-29 de 02:00 a 07:00 (hueco de conexion)
+2. M04 temperatura exactamente 0.00 el 2026-09-30 de 14:00 a 18:00 (sensor pegado)
+3. M01 se calienta poco a poco el 2026-10-01 de 08:00 a 20:00 (sobrecalentamiento)
+4. M03 con 4 a 9 errores de lector el 2026-10-02 de 10:00 a 13:00
+5. M05 pico de 31.5 grados una sola vez, el 2026-10-02 a las 03:20
+6. M01 lecturas duplicadas el 2026-09-28 de 12:00 a 12:30

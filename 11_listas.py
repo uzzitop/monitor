@@ -1,0 +1,10 @@
+lecturas = [10.5, 11.2, 9.8, 14.7, 11.0]
+print(lecturas)
+print(len(lecturas))
+print(lecturas[0])
+print(lecturas[-1])
+print(lecturas[1:3])
+lecturas.append(12.4)
+print(lecturas)
+print(max(lecturas), min(lecturas))
+print(round(sum(lecturas) / len(lecturas), 2))

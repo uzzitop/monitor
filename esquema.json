@@ -1,0 +1,10 @@
+{
+    "type": "object",
+    "properties":{
+    "maquina": {"type":"string"},
+    "temp_c":{"type":"number"},
+    "errores":{"type":"integer"}
+      
+    },
+    "required":["maquina","temp_c","errores"]
+}

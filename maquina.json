@@ -1,0 +1,10 @@
+{
+    "maquina": "M01",
+    "temp_c":9.93,
+    "errores":0,
+    "ubicacion":{
+    "planta":"Norte",
+    "pasillo":"3"    
+    },
+    "lecturas":[9.9,10.1,10]
+}

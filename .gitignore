@@ -2,3 +2,6 @@
 lecturas.csv
 *.db
 __pycache__/
+# secrets
+*token*
+*.key
